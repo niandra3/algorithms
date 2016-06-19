@@ -26,6 +26,7 @@ def merge_count(arr):
             ri += 1
     return out, count
 
+
 arr = []
 with open('array.txt', 'r') as f:
     for line in f:
